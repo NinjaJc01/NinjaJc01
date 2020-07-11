@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm James
+### Making you say "That's pointless, but cool" since 2016
+I'm a Content Creator for [TryHackMe](https://tryhackme.com) and a 2nd year Cyber Security and Digital Forensics student.
 
-<!--
-**NinjaJc01/NinjaJc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my content on TryHackMe via [this link.](https://tryhackme.com/hacktivities#NinjaJc01).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlighted Projects
+* **[GoRoku](https://github.com/NinjaJc01/goRoku)** - Webapp to control Roku streaming devices from any device with a browser.
+* **[PensiveNotes](https://github.com/NinjaJc01/PensiveNotes)** - A note taking app. If you're not coming here from TryHackMe please check the spoiler below.
+<details>
+  <summary>Spoiler</summary> 
+  This repo is part of a CTF challenge. **DO NOT** use this in production. It is designed to be insecure.
+</details>
+* **[eGo](https://github.com/NinjaJc01/eGo)** - Go based, arbitrary precision arithmetic, to calculate Euler's constant. Works as a multithreaded benchmark.
