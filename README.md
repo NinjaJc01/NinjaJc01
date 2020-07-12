@@ -7,10 +7,11 @@ Check out my content on TryHackMe via [this link.](https://tryhackme.com/hacktiv
 ## Highlighted Projects
 * **[GoRoku](https://github.com/NinjaJc01/goRoku)** - Webapp to control Roku streaming devices from any device with a browser.
 * **[PensiveNotes](https://github.com/NinjaJc01/PensiveNotes)** - A note taking app. If you're not coming here from TryHackMe please check the spoiler below.
-* **[TryHackMe OpenVPN site](https://github.com/NinjaJc01/thm-vpn-machine)** - A webapp to be used by TryHackMe, to test your VPN connection and tell you your VPN IP
-<details>
-  <summary>Spoiler</summary> 
-  This repo is part of a CTF challenge. **DO NOT** use this in production. It is designed to be insecure.
-</details>
+  <details>
+    <summary>Spoiler</summary> 
+    This repo is part of a CTF challenge. **DO NOT** use this in production. It is designed to be insecure.
+  </details>
 
+
+* **[TryHackMe OpenVPN site](https://github.com/NinjaJc01/thm-vpn-machine)** - A webapp to be used by TryHackMe, to test your VPN connection and tell you your VPN IP
 * **[eGo](https://github.com/NinjaJc01/eGo)** - Go based, arbitrary precision arithmetic, to calculate Euler's constant. Works as a multithreaded benchmark.
