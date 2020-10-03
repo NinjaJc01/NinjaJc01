@@ -15,3 +15,4 @@ Check out my content on TryHackMe via [this link.](https://tryhackme.com/hacktiv
 
 * **[TryHackMe OpenVPN site](https://github.com/NinjaJc01/thm-vpn-machine)** - A webapp to be used by TryHackMe, to test your VPN connection and tell you your VPN IP
 * **[eGo](https://github.com/NinjaJc01/eGo)** - Go based, arbitrary precision arithmetic, to calculate Euler's constant. Works as a multithreaded benchmark.
+* **[TryHackMe Competition bot](https://github.com/NinjaJc01/thm-compete-bot)** - A discord bot to encourage competition for TryHackme within small groups.
